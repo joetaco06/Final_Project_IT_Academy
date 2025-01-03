@@ -12,12 +12,23 @@ Debido al limite de carga de archivos en github (25mb) a continuación se muestr
 
 Una radiografía de la inmigración en España, año 2021
 
+# Resumen
+
+In progress
+
 # Introducción
 
 In progress
 
+# Metodología
 
-# Resumen
+In progress
+
+# Resultados
+
+In progress
+
+# Discusión
 
 In progress
 
