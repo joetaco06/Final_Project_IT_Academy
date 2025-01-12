@@ -1,18 +1,16 @@
 # Final_Project_IT_Academy
 Proyecto Final del Bootcamp de Data Analyst @IT_Academy
 
-Debido al limite de carga de archivos en github (25mb) a continuación se muestran los enlaces para realizar las descargas desde el Google Drive:
+Debido al limite de carga de archivos en github (25mb) a continuación se muestra el enlace para realizar la descarga del dataset desde Google Drive:
 
-1) Enlace para descargar dataset del INE, EMCR_2021 (formato CSV) --> https://drive.google.com/drive/folders/1aGRvw4dS45JtEyx8HAY4LCEEd9l5oUtu?usp=sharing
-
-2) Enlace para descargar archivo en PowerBI (formato .pbix) --> https://drive.google.com/drive/folders/1aGRvw4dS45JtEyx8HAY4LCEEd9l5oUtu?usp=sharing
+INE, EMCR_2021 (formato CSV) --> https://drive.google.com/file/d/1toax0Bhr-JuONpOf-luLCswCdixAHZxx/view?usp=drive_link
 
 El presente proyecto está compuesto por los siguientes archivos que se encuentran en este repositorio:
 
  A. Informe Inmigración España 2021 (PDF)
  B. Presentación Inmigración España 2021 (PDF)
  C. Análisis Inmigración España 2021 (Python - Jupyter Notebook)
- D. Análisis Inmigración España 2021 (Power BI) - Debido a su tamaño > 25mb, se puede descargar aquí: https://drive.google.com/file/d/1O3GO25D3hulN6XnnQTsDY8DsUyEyxAbZ/view?usp=drive_link
+ D. Análisis Inmigración España 2021 (Power BI) - Debido a su tamaño > 25mb, se puede descargar aquí: https://drive.google.com/file/d/1NKTugZuI0sQh7ZvU0w-MF-RAqP1RaKJN/view?usp=drive_link
 
 ## Una radiografía de la inmigración en España, año 2021
 
