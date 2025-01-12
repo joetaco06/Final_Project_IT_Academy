@@ -40,7 +40,7 @@ De esta manera las respuestas a las hipótesis formuladas ayudan a comprender el
 
 ![imagen](https://github.com/user-attachments/assets/cfa17334-da2e-415f-ae33-22ad5a66a533)
 
-La mayoría de los inmigrantes hacia España en el 2021 provenieron de países América Latina. (check)
+La mayoría de los inmigrantes hacia España en el 2021 provenieron de países de América Latina. (check)
 
 
 ![imagen](https://github.com/user-attachments/assets/4b4de22b-414a-4170-ab27-4c100516bd36)
