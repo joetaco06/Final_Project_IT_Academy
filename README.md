@@ -8,8 +8,11 @@ INE, EMCR_2021 (formato CSV) --> https://drive.google.com/file/d/1toax0Bhr-JuONp
 El presente proyecto está compuesto por los siguientes archivos que se encuentran en este repositorio:
 
  A. Informe Inmigración España 2021 (PDF)
+ 
  B. Presentación Inmigración España 2021 (PDF)
+ 
  C. Análisis Inmigración España 2021 (Python - Jupyter Notebook)
+ 
  D. Análisis Inmigración España 2021 (Power BI) - Debido a su tamaño > 25mb, se puede descargar aquí: https://drive.google.com/file/d/1NKTugZuI0sQh7ZvU0w-MF-RAqP1RaKJN/view?usp=drive_link
 
 ## Una radiografía de la inmigración en España, año 2021
@@ -20,9 +23,9 @@ El presente proyecto está compuesto por los siguientes archivos que se encuentr
  
 Hipótesis: 
 
-•	La mayoría de los inmigrantes hacia España en el 2021 provenieron de países América Latina.
+•	H1: La mayoría de los inmigrantes hacia España en el 2021 provenieron de países América Latina.
 
-•	La mayoría de los inmigrantes hacia España en el 2021 formaron parte de la PET (Población en edad de trabajar).
+•	H2: La mayoría de los inmigrantes hacia España en el 2021 formaron parte de la PET (Población en edad de trabajar).
 
 # Metodología
 
