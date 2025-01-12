@@ -40,12 +40,12 @@ De esta manera las respuestas a las hipótesis formuladas ayudan a comprender el
 
 ![imagen](https://github.com/user-attachments/assets/cfa17334-da2e-415f-ae33-22ad5a66a533)
 
-<p> La mayoría de los inmigrantes hacia España en el 2021 provenieron de países de América Latina. <span style="color:green;">&#x2713;</span></p>
+<p> La mayoría de los inmigrantes hacia España en el 2021 provenieron de países de América Latina. <span style="color:#008000;">&#x2713;</span></p>
 
 
 ![imagen](https://github.com/user-attachments/assets/4b4de22b-414a-4170-ab27-4c100516bd36)
 
-<p> La mayoría de los inmigrantes hacia España en el 2021 formaron parte de la PET (Población en edad de trabajar). <span style="color:green;">&#x2713;</span></p>
+<p> La mayoría de los inmigrantes hacia España en el 2021 formaron parte de la PET (Población en edad de trabajar). <span style="color:#008000;">&#x2713;</span></p>
 
 # Herramientas utilizadas
 
