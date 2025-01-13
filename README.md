@@ -17,6 +17,9 @@ El presente proyecto está compuesto por los siguientes archivos que se encuentr
 
 ## Una radiografía de la inmigración en España, año 2021
 
+![imagen](https://github.com/user-attachments/assets/c7b3371d-a400-45d4-8749-e4cb3e29d666)
+
+
 # Resumen
 
  El presente trabajo analiza los flujos migratorios en España durante el año 2021, con un especial enfoque en los flujos migratorios realizados hacia España desde el exterior (IE). Utilizando datos obtenidos del Instituto Nacional de Estadística (INE), se examinan las características demográficas y geográficas de los migrantes, así como las diferencias en los patrones migratorios por género, edad y pais de nacimiento. Al tiempo que se busca responder las siguientes hipótesis formuladas.
