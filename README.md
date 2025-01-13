@@ -48,7 +48,9 @@ De esta manera las respuestas a las hipótesis formuladas ayudan a comprender el
 Sí, con un 35.2%
 
 <p>  <p> 
-
+<p>  <p> 
+<p>  <p> 
+ 
 ![imagen](https://github.com/user-attachments/assets/4b4de22b-414a-4170-ab27-4c100516bd36)
 
 <p> H2: La mayoría de los inmigrantes hacia España en el 2021 formaron parte de la PET (Población en edad de trabajar). <span style="color:#008000;">&#x2713;</span></p>
