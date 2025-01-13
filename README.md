@@ -47,9 +47,7 @@ De esta manera las respuestas a las hipótesis formuladas ayudan a comprender el
 <p> H1: La mayoría de los inmigrantes hacia España en el 2021 provinieron de países de América Latina. <span style="color:#008000;">&#x2713;</span></p>
 Sí, con un 35.2%
 
-<div> 
 
-</div> 
  
 ![imagen](https://github.com/user-attachments/assets/4b4de22b-414a-4170-ab27-4c100516bd36)
 
